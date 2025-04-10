@@ -3,27 +3,25 @@
 <h1 align="center">Hey 👋 I'm Vishal Gaikwad</h1>
 
 <p align="center">
-  💻 Full Stack Developer | Freelancer | Intern @ Unified Mentor<br/>
+  💻 Full Stack Developer | Freelancer <br/>
   🎓 CSE Student @ Sinhgad College of Engineering, Pune<br/>
-  ☕ Powered by code, chai & creativity
+  ⚡️ Powered by code, coffee, chai, redbull & creativity
 </p>
 
 ---
 
 ### 🧰 Tech Stack
 
-- **Frontend:** React · Vite · Tailwind CSS · GSAP · Framer Motion · TypeScript  
+- **Frontend:** React · HTML · Tailwind CSS · TypeScript  
 - **Backend:** Node.js · Express.js · MongoDB · Prisma · PostgreSQL  
-- **Tools:** Git · GitHub · VS Code · Postman  
-- **Deployments:** Vercel · Render
+- **Tools:** Git · GitHub · VS Code   
 
 ---
 
 ### 🛠 Notable Projects
 
 - 🔗 **[Chai Project](https://github.com/gaikwad8vishal/Chai-project)** – A dynamic chai ordering app with full checkout, auth, admin panel  
-- 🔗 **[Course Selling App](https://github.com/gaikwad8vishal/Course-Selling-app)** – Built with TypeScript, responsive & user-friendly  
-- 🔗 **[Chat App](https://github.com/gaikwad8vishal/chat-app)** – Real-time chat interface using sockets & CSS styling
+- 🔗 **[Second Brain](https://github.com/gaikwad8vishal/Brainly-F)** - A static website at which you can save your link tweets and other docuemts
 
 ---
 
