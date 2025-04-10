@@ -39,7 +39,7 @@
 
 ### 🔗 Let’s Connect
 
-- 📫 **LinkedIn:** [gaikwad8vishal](https://www.linkedin.com/in/gaikwad8vishal)  
+- 📫 **LinkedIn:** [gaikwad8vishal](https://www.linkedin.com/in/vishal-gaikwad-3240b9300/)  
 - 🌐 **Portfolio:** Coming soon...  
 - 📍 Pune, India
 
